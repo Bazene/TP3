@@ -1,0 +1,54 @@
+* {
+    margin:0px;
+    padding:0px;
+    font-family:Helvetica ;
+}
+
+.body {
+    background: #F8F9FB; 
+}
+
+/* .authentification_section, .create_acount_section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:2% 30% 0% 30%;
+    padding: 10px 0px 10px 0px;
+    border:solid 1px rgb(13, 13, 155);
+}
+
+.authentification_section > h2, .create_acount_section > h2{
+    margin-bottom: 10px;
+} */
+/* 
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+} */
+
+/* input, .sex{
+    display:inline-block;
+    width: 60%;
+    padding: 10px;
+    margin-bottom: 10px;
+} */
+
+/* .sex {
+    width: 64%;
+    background-color: white;
+    border : solid 1px gray;
+    color: gray;
+} */
+
+/* .login_btn, .subscribe_btn {
+    width: 64%;
+    background-color: rgb(13, 13, 155);
+    color:white;
+    border:0px;
+} */
+
+/* .login_btn:hover, .subscribe_btn:hover {
+    cursor: pointer;
+} */

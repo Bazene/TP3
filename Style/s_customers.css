@@ -1,0 +1,92 @@
+* {
+    font-size: 12px;
+}
+
+.customer_search {
+    box-shadow:0 0 5px 5px #ECEDEF;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin:10px 50px 10px 50px;
+    padding: 10px;
+}
+
+.customer_search > form {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.print_customer {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin:10px 50px 0px 50px;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow:0 0 5px 5px #ECEDEF;
+}
+
+.profil {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width :20%;
+}
+
+.profil > img {
+    margin-right: 10px;
+}
+
+h4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(25, 132, 210);
+    color: white;
+    width: 100%;
+    padding: 2px;
+    margin-bottom: 5px;
+}
+.edite_btn {
+    margin-right: 10px;
+}
+
+.num {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border:solid 1px rgb(25, 132, 210);
+    width: 45px;
+    height: 45px;
+}
+
+.deposit_remove {
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    margin:10px 50px 0px 50px;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow:0 0 5px 5px #ECEDEF;
+}
+
+.deposit_remove > form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+.cancel {
+    position: relative;
+}
+
+.modifier_customer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
